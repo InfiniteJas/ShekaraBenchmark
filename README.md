@@ -155,8 +155,8 @@ results = evaluate_model(
 
 ## 📞 Байланыс
 
-- LinkedIn: [KazakhBench](https://linkedin.com/in/kazakhbench)
-- Telegram: [@kazakhbench](https://t.me/kazakhbench)
+- LinkedIn: [KazakhBench](https://www.linkedin.com/in/olzhas-alseitov/)
+- Telegram: [@kazakhbench](https://t.me/shekaradantysai)
 
 ---
 
