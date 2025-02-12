@@ -1,0 +1,36 @@
+# benchmarks/linguistic/morphology.json
+
+{
+    "tasks": [
+        {
+            "task_id": "morph_001",
+            "type": "MCQ",
+            "question": "Берілген сөздің дұрыс жалғауын таңдаңыз: Кітап___ үстелде жатыр",
+            "options": [
+                "A) тың",
+                "B) тің",
+                "C) дың",
+                "D) дің"
+            ],
+            "correct": "A",
+            "explanation": "Қатаң 'п' дыбысынан кейін 'тың' жалғауы жалғанады",
+            "metadata": {
+                "difficulty": 0.3,
+                "discriminative_power": 0.8,
+                "time_limit": 30
+            }
+        },
+        {
+            "task_id": "morph_002",
+            "type": "FRQ",
+            "question": "Келесі сөздерге көптік жалғау жалғаңыз: қала, мектеп, бала",
+            "reference_answer": "қалалар, мектептер, балалар",
+            "explanation": "Дауысты дыбыстардан кейін -лар/-лер, қатаң дыбыстардан кейін -тар/-тер жалғанады",
+            "metadata": {
+                "difficulty": 0.4,
+                "discriminative_power": 0.7,
+                "time_limit": 60
+            }
+        }
+    ]
+}
